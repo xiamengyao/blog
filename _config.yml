@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A beautiful narrative written with the world's most elegant girl.
   The story begins here.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://xiamengyaoc.com" # the base hostname & protocol for your site
+url: "http://xiamengyao.com" # the base hostname & protocol for your site
 
 blog: "/blog"
 cv: "/cv"
